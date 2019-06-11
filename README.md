@@ -4,6 +4,6 @@ Error Pages:
 - [eScholarship Error](/eScholarship-5xx.html)
 
 TODO: add google analytics codes and send events:
-	- Category: 'error' 
-	- Action: <error code>
-	- Label: <source; ie: cloudfront, django, etc>
+- Category: 'error' 
+- Action: <error code>
+- Label: <source; ie: cloudfront, django, etc>
